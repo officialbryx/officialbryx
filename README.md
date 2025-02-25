@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Kamusta, I'm Bryan Tiamzon:
 
 🔹 Currently working on my thesis **(HireFlow)**  
 🎓 Studying Computer Science at **Technological Institute of the Philippines**  
