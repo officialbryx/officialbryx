@@ -1,13 +1,6 @@
 <p align="center">
-  <a href="https://github.com/officialbryx" style="text-decoration: none;">
-    <div style="background-color: #1a1b26; padding: 20px; border-radius: 10px; margin: 20px 0;">
-      <h1 style="color: #7aa2f7; font-size: 48px; margin: 0; font-family: 'Fira Code', monospace; text-align: center;">
-        Bryan Tiamzon
-      </h1>
-      <p style="color: #bb9af7; font-size: 20px; margin: 10px 0 0; font-family: 'Fira Code', monospace; text-align: center;">
-        Full Stack Developer
-      </p>
-    </div>
+  <a href="https://github.com/officialbryx">
+    <img src="assets/header-banner.svg" alt="Bryan Tiamzon - Full Stack Developer" width="800">
   </a>
 </p>
 
