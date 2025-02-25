@@ -49,4 +49,7 @@
 
 ---
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=100&section=footer&fontColor=black"/> </div>
+</div> 
+<div align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=100&section=footer&fontColor=black"/> 
+</div>
