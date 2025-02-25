@@ -1,16 +1,15 @@
 <p align="center">
-  <a href="https://github.com/officialbryx">
-    <img src="assets/header-banner.svg" alt="Bryan Tiamzon - Full Stack Developer" width="800">
+  <!-- Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=Bryan%20Tiamzon&fontSize=42&fontAlignY=30&animation=fadeIn&fontColor=72a6fe" width="100%"/>
+</p>
+
+<p align="center" style="margin-top: -140px; margin-bottom: 70px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=72A6FE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;AI%2FML+Researcher;Learning+Data+Science;From+the+Philippines" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
-
-<p align="left">
-  🔹 Currently working on my thesis <b>(HireFlow)</b><br/>
-  🎓 Studying Computer Science at <b>Technological Institute of the Philippines</b><br/>
-  💻 Software Developer Intern at <b>Ateneo Innovation Center</b>
-</p>
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -112,7 +111,6 @@
 
 ---
 
-</div> 
-<div align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=100&section=footer&fontColor=navy"/> 
+<div align="center" style="width: 100%;"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=footer&width=100%" width="100%"/> 
 </div>
