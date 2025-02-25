@@ -1,13 +1,10 @@
 <p align="center">
   <!-- Animated Wave Header with desc parameter for typing SVG -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=Bryan%20Tiamzon&fontSize=42&fontAlignY=25&animation=fadeIn&fontColor=72a6fe&desc=%20&descAlignY=50&descSize=30" width="100%"/>
-</p>
-
-<div align="center" style="margin-top: -90px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=72A6FE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;AI%2FML+Researcher;Learning+Data+Science;From+the+Philippines" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <br/>
 
