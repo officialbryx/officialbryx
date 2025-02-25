@@ -51,5 +51,5 @@
 
 </div> 
 <div align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=100&section=footer&fontColor=black"/> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=100&section=footer&fontColor=navy"/> 
 </div>
