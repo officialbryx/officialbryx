@@ -46,3 +46,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/officialbryx/officialbryx/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/officialbryx/officialbryx/output/github-snake.svg" />
 </picture>
+
+---
+
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=100&section=footer&fontColor=black"/> </div>
