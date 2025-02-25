@@ -1,13 +1,13 @@
 <p align="center">
-  <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=Bryan%20Tiamzon&fontSize=42&fontAlignY=30&animation=fadeIn&fontColor=72a6fe" width="100%"/>
+  <!-- Animated Wave Header with desc parameter for typing SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=Bryan%20Tiamzon&fontSize=42&fontAlignY=25&animation=fadeIn&fontColor=72a6fe&desc=%20&descAlignY=50&descSize=30" width="100%"/>
 </p>
 
-<p align="center" style="margin-top: -140px; margin-bottom: 70px;">
+<div align="center" style="margin-top: -90px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=72A6FE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;AI%2FML+Researcher;Learning+Data+Science;From+the+Philippines" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <br/>
 
@@ -87,11 +87,14 @@
 
   <h3 align="center">💻 GitHub Profile Stats</h3>
 
-  <p align="center">
-    <a href="https://github.com/officialbryx"><img alt="officialbryx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=officialbryx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true" height="192px"/></a>
-    <br/>
-    <a href="https://github.com/officialbryx"><img alt="officialbryx's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=officialbryx&langs_count=8&layout=compact&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  </p>
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/officialbryx">
+      <img alt="officialbryx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=officialbryx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true" height="192px"/>
+    </a>
+    <a href="https://github.com/officialbryx">
+      <img alt="officialbryx's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=officialbryx&langs_count=8&layout=compact&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
+    </a>
+  </div>
 
   <p align="center">
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
