@@ -10,9 +10,11 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/officialbryx/Analytics-Automation-Platform"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialbryx&repo=Analytics-Automation-Platform&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&show_icons=true" alt="Analytics-Automation-Platform"></a>
-    <a href="https://github.com/officialbryx/HireFlow-last"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialbryx&repo=HireFlow-last&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&show_icons=true" alt="HireFlow-last"></a>
-    <a href="https://github.com/officialbryx/California-Housing-Price-Predictor-Using-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialbryx&repo=California-Housing-Price-Predictor-Using-Machine-Learning&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&show_icons=true" alt="California-Housing-Price-Predictor-Using-Machine-Learning"></a>
+    <a href="https://github.com/officialbryx/Analytics-Automation-Platform"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialbryx&repo=Analytics-Automation-Platform&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&show_icons=true" alt="Analytics Automation Platform"></a>
+    <a href="https://github.com/officialbryx/HireFlow-last">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialbryx&repo=HireFlow-last&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&show_icons=true&cache_seconds=0" alt="Hireflow">
+    </a>
+    <a href="https://github.com/officialbryx/California-Housing-Price-Predictor-Using-Machine-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=officialbryx&repo=California-Housing-Price-Predictor-Using-Machine-Learning&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&hide_border=true&show_icons=true" alt="California Housing Price Predictor Using Machine Learning"></a>
   </p>
 
 <a href="https://github.com/officialbryx?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1B27?style=for-the-badge&logoColor=70A5FD&logo=repo"/></a>
